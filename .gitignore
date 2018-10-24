@@ -3,6 +3,9 @@ bundle.js
 npm-debug.log
 .DS_Store
 
+# api keys
+config.js
+
 # IntelliJ
 *.iml
 /.idea
